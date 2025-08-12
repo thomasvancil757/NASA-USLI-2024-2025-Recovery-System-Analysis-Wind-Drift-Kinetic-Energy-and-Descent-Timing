@@ -18,6 +18,9 @@ Applications:
 
 Design trade studies for parachute selection and sizing.
 
+Uses:
+Used during design reviews presented to high power rocketry SMEs at NASA. Results from this script were compared to an industry standard OpenRocket simulation software results, to validate outcomes.
+
 Pre-flight safety validation of kinetic energy limits.
 
 Recovery crew planning for expected drift ranges and retrieval times.
